@@ -1,5 +1,4 @@
 # Introdução
-___
 Esse repositório foi criado com a intenção de difundir o ensino de Machine Learning em português. 
 
 Os algoritmos aqui implementados não são otimizados e foram implementados visando o fácil entendimento. __Portanto, não devem ser utilizados para fins de pesquisa ou outros fins além dos especificados.__
