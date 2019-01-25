@@ -1,22 +1,27 @@
 # Introdução
-Esse repositório foi criado com a intenção de difundir o ensino de Machine Learning em português. 
+Esse repositório foi criado com a intenção de difundir o ensino de Machine Learning em português.
 
-Os algoritmos aqui implementados não são otimizados e foram implementados visando o fácil entendimento. __Portanto, não devem ser utilizados para fins de pesquisa ou outros fins além dos especificados.__
+# Algoritmos Implementados
 
-Os códigos e explicações, quando tirados de outras fontes, são devidamente referenciados. __Por favor, entre em contato caso você tenha visto algo não referenciado__.
+| Classificação | Regressão | Clusterização | Redução de<br> Dimensionalidade |
+|:--------------:|:------------:|:-------------:|:---------------------------:|
+| 🌿 Adaboost | 📈 Linear | 🔠 K-Means | 🌹 PCA |
+| 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA |
+| 🏠🏠 K-NN | 📊 Polinomial |  |  |
+| 🥴 Naive Bayes |  |  |  |
+| 🧠 Redes Neurais |  |  |  |
 
-Sinta-se livre para contribuir nesse projeto!
 
 # Instalação
 1. Baixe ou clone o repositório.
 2. Baixe e instale o [Miniconda](https://conda.io/miniconda.html). (__Windows__: marque a opção de adicionar o conda às variáveis de ambiente (_$PATH_))
-3. Abra o terminal e digite o seguinte comando para instalar o ambiente:
+3. Abra o terminal e digite os seguintes comandos para instalar o ambiente:
     ```sh
     $ conda config --add channels bioconda
     $ conda create -n ml python=3.5.3 numpy=1.12.1 pandas=0.20.1 matplotlib=2.0.2 scikit-learn=0.18.1 seaborn=0.7.1 jupyter=1.0.0
     ```
 
-# Uso do ambiente
+#### Uso do ambiente
 
 > __Nota:  É obrigatório seguir as ordens da seção "Instalação" antes de utilizar o ambiente__.
 
