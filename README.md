@@ -3,14 +3,19 @@ Esse repositório foi criado com a intenção de difundir o ensino de Machine Le
 
 # Algoritmos Implementados
 
-| Classificação | Regressão | Clusterização | Redução de<br> Dimensionalidade |
-|:--------------:|:------------:|:-------------:|:---------------------------:|
-| 🌿 Adaboost | 📈 Linear | 🔠 K-Means | 🌹 PCA |
-| 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA |
-| 🏠🏠 K-NN | 📊 Polinomial |  |  |
-| 🥴 Naive Bayes |  |  |  |
-| 🧠 Redes Neurais |  |  |  |
-
+| Classificação | Regressão | Clusterização | Redução de <br>Dimensionalidade | Seleção de  Atributos |
+|:--------------:|:------------:|:-------------:|:-------------------------------:|:---------------------------------:|
+| 🌿 Adaboost | 📈 Linear | 🔠 K-Means | 🌹 PCA | Correlação <br>de Pearson |
+| 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA | Mutual <br>Information |
+| 🏠🏠 K-NN | 📊 Polinomial |  |  | Maximal Information Coefficient |
+| 🥴 Naive Bayes |  |  |  | Stability Selection |
+| 🧠 Redes Neurais |  |  |  | Eliminação <br>recursiva de atributos |
+|  |  |  |  | Boruta |
+|  |  |  |  | Linear Regression |
+|  |  |  |  | L1 regularization (Lasso) |
+|  |  |  |  | L2 regularization (Ridge) |
+|  |  |  |  | Random Forest |
+|  |  |  |  | Mean Decrease <br>Accuracy |
 
 # Instalação
 1. Baixe ou clone o repositório.
