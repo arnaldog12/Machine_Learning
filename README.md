@@ -13,7 +13,7 @@ Esse repositório foi criado com a intenção de difundir o ensino de Machine Le
 
 E ainda temos um notebook só com métodos de **Seleção de Atributos**:
 
-| Métodos de Filtragem (Filter Methods) | Métodos de Empacotamento (Wrapper Methods) | Métodos Embarcados (Embedded Methods) |
+| Métodos de Filtragem <br>(Filter Methods) | Métodos de Empacotamento <br>(Wrapper Methods) | Métodos Embarcados <br>(Embedded Methods) |
 |:-------------------------------------:|:------------------------------------------:|:-------------------------------------:|
 | 📈 📉 Correlação de Pearson | 🏆 Stability Selection | 📈 Regressão Linear |
 | 📝 :left_right_arrow:📝 Mutual Information | 🔁 Eliminação Recursiva | 1️⃣ Regularização L1 (Lasso) |
