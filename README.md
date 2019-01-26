@@ -3,19 +3,24 @@ Esse repositório foi criado com a intenção de difundir o ensino de Machine Le
 
 # Algoritmos Implementados
 
-| Classificação | Regressão | Clusterização | Redução de <br>Dimensionalidade | Seleção de  Atributos |
-|:--------------:|:------------:|:-------------:|:-------------------------------:|:---------------------------------:|
-| 🌿 Adaboost | 📈 Linear | 🔠 K-Means | 🌹 PCA | Correlação <br>de Pearson |
-| 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA | Mutual <br>Information |
-| 🏠🏠 K-NN | 📊 Polinomial |  |  | Maximal Information Coefficient |
-| 🥴 Naive Bayes |  |  |  | Stability Selection |
-| 🧠 Redes Neurais |  |  |  | Eliminação <br>recursiva de atributos |
-|  |  |  |  | Boruta |
-|  |  |  |  | Linear Regression |
-|  |  |  |  | L1 regularization (Lasso) |
-|  |  |  |  | L2 regularization (Ridge) |
-|  |  |  |  | Random Forest |
-|  |  |  |  | Mean Decrease <br>Accuracy |
+| Classificação | Regressão | Clusterização | Redução de <br>Dimensionalidade |
+|:----------------:|:--------------:|:-------------:|:-------------------------------:|
+| 🌿 Adaboost | 📈 Linear | 🔠 K-Means | 🌹 PCA |
+| 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA |
+|  🏠🏠 K-NN | 📊 Polinomial |  |  |
+| 🥴 Naive Bayes |  |  |  |
+| 🧠 Redes Neurais |  |  |  |
+
+E ainda temos um notebook só com métodos de **Seleção de Atributos**:
+
+| Métodos de Filtragem (Filter Methods) | Métodos de Empacotamento (Wrapper Methods) | Métodos Embarcados (Embedded Methods) |
+|:-------------------------------------:|:------------------------------------------:|:-------------------------------------:|
+| 📈 📉 Correlação de Pearson | 🏆 Stability Selection | 📈 Regressão Linear |
+| 📝 :left_right_arrow:📝 Mutual Information | 🔁 Eliminação Recursiva | 1️⃣ Regularização L1 (Lasso) |
+| 💯 Maximal Information Coefficient | ⭐️ Boruta | 2️⃣ Regularização L2 (Ridge) |
+|  |  | ⬇️ 💩 Mean Decrease Impurity |
+|  |  | ⬇️ 🎯 Mean Decrease Accuracy |
+
 
 # Instalação
 1. Baixe ou clone o repositório.
