@@ -9,6 +9,7 @@ Esse repositório foi criado com a intenção de difundir o ensino de Machine Le
 | 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA |
 |  🏠🏠 K-NN | 📊 Polinomial |  |  |
 | 🥴 Naive Bayes |  |  |  |
+| 💲 Regressão Logística |  |  |  |
 | 🧠 Redes Neurais |  |  |  |
 
 E ainda temos um notebook só com métodos de **Seleção de Atributos**:
