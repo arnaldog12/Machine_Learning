@@ -29,7 +29,7 @@ E ainda temos um notebook só com métodos de **Seleção de Atributos**:
 3. Abra o terminal e digite os seguintes comandos para instalar o ambiente:
     ```sh
     $ conda config --add channels bioconda
-    $ conda create -n ml python=3.5.3 numpy=1.12.1 pandas=0.20.1 matplotlib=2.0.2 scikit-learn=0.18.1 seaborn=0.7.1 jupyter=1.0.0 pydotplus==2.0.2
+    $ conda create -n ml python=3.5.3 numpy=1.12.1 pandas=0.20.1 matplotlib=2.0.2 scikit-learn=0.20.0 seaborn=0.7.1 jupyter=1.0.0 pydotplus==2.0.2
     ```
 
 #### Uso do ambiente
