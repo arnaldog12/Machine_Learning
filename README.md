@@ -8,7 +8,7 @@ Esse repositório foi criado com a intenção de difundir o ensino de Machine Le
 | 🌿 Adaboost | 📈 Linear | 🔠 K-Means | 🌹 PCA |
 | 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA |
 |  🏠🏠 K-NN | 📊 Polinomial |  |  |
-| 🥴 Naive Bayes |  |  |  |
+| 🎲 Naive Bayes |  |  |  |
 | 💲 Regressão Logística |  |  |  |
 | 🧠 Redes Neurais | 🧠 Redes Neurais |  |  |
 
