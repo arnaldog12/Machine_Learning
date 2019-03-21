@@ -6,7 +6,7 @@ Esse repositório foi criado com a intenção de difundir o ensino de Machine Le
 | Classificação | Regressão | Clusterização | Redução de <br>Dimensionalidade |
 |:----------------:|:--------------:|:-------------:|:-------------------------------:|
 | 🌿 Adaboost | 📈 Linear | 🔠 K-Means | 🌹 PCA |
-| 🌳 Decision Trees | 🔱 Multivariada |  | 🌻 LDA |
+| 🌳 Decision Trees | 🔱 Multivariada | 🔠↖️ MeanShift | 🌻 LDA |
 |  🏠🏠 K-NN | 📊 Polinomial |  |  |
 | 🎲 Naive Bayes |  |  |  |
 | 💲 Regressão Logística |  |  |  |
