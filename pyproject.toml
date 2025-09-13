@@ -1,0 +1,63 @@
+[project]
+name = "machine-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "graphviz>=0.21",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
+    "numpy>=2.2.6",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "pydotplus>=2.0.2",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.13.0",
+]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "Q0",
+    "COM",
+    "FBT",
+    "S",
+    "YTT",
+    "N",
+    "I",
+    "C90",
+    "TID",
+    "ERA",
+    "RUF",
+]
+exclude = [
+    "mock/*",
+]
+extend-select = ["E501"]
+ignore = [
+    "D417",   # On top of the Google convention, disable `D417`, which requires documentation for every function parameter.
+    "N815",
+    "N803",
+    "COM812",
+    "N818",
+    "N805",
+    "COM819",
+    "I001",
+    "FBT003",
+    "FBT002",
+    "FBT001",
+    "E731",
+    "RUF001",
+    "ERA001",
+]
+fixable = ["A", "B", "C", "D", "E", "F", "Q", "I"]
