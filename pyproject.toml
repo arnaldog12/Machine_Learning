@@ -42,6 +42,7 @@ select = [
 ]
 exclude = [
     "mock/*",
+    "third_party/*",
 ]
 extend-select = ["E501"]
 ignore = [
